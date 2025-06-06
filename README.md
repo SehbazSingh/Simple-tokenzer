@@ -1,4 +1,4 @@
-# 🧠 Simple Text Tokenizer
+# 🧠 Simple Word based Tokenizer
 
 A minimalistic Python script that reads a text file, builds a vocabulary from it, and tokenizes user input text into integer sequences. It also supports decoding those sequences back into human-readable text.
 
